@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gits on My New Hugo Site</title>
+    <link>http://example.org/git/</link>
+    <description>Recent content in Gits on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Nov 2020 15:53:13 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git</title>
+      <link>http://example.org/git/git/</link>
+      <pubDate>Wed, 18 Nov 2020 15:53:13 +0800</pubDate>
+      
+      <guid>http://example.org/git/git/</guid>
+      <description>First Second ugo$ hugo server -D | EN -------------------+----- Pages | 8 Paginator pages | 0 Non-page files | 0 Static files | 6 Processed images | 0 Aliases | 0 Sitemaps | 1 Cleaned | 0 Built in 64 ms Watching for changes in /mnt/d/learn/Hugo/{archetypes,content,data,layouts,static,themes} Watching for config changes in /mnt/d/learn/Hugo/config.toml Environment: &amp;quot;development&amp;quot; Serving pages from memory Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender Web Server is available at http://localhost:1313/ (bind address 127.</description>
+    </item>
+    
+  </channel>
+</rss>
